@@ -1,7 +1,7 @@
 {
     "repositories": [
         {
-            "repositoryName": "snakeyaml",
+            "repositoryName": "empty_repo",
             "repositoryId": "f7579e13-b83e-4027-aaef-650c0EXAMPLE"
         },
         {
@@ -17,11 +17,11 @@
             "repositoryId": "cfc29ac4-b0cb-44dc-9990-f6f52EXAMPLE"
         },
         {
-            "repositoryName": "MyDemoRepo2",
+            "repositoryName": "demo",
             "repositoryId": "f7579e13-b83e-4027-aaef-650c2EXAMPLE"
         },
         {
-            "repositoryName": "MyOtherDemoRepo2",
+            "repositoryName": "demo_0",
             "repositoryId": "cfc29ac4-b0cb-44dc-9990-f6f53EXAMPLE"
         }
     ]
