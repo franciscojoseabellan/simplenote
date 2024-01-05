@@ -1,19 +1,19 @@
 {
     "repositories": [
         {
-            "repositoryName": "MyDemoRepo",
+            "repositoryName": "snakeyaml",
             "repositoryId": "f7579e13-b83e-4027-aaef-650c0EXAMPLE"
         },
         {
-            "repositoryName": "MyOtherDemoRepo",
+            "repositoryName": "tut-rest",
             "repositoryId": "cfc29ac4-b0cb-44dc-9990-f6f51EXAMPLE"
         },
         {
-            "repositoryName": "MyDemoRepo1",
+            "repositoryName": "springboot_9",
             "repositoryId": "f7579e13-b83e-4027-aaef-650c1EXAMPLE"
         },
         {
-            "repositoryName": "MyOtherDemoRepo1",
+            "repositoryName": "spring-petclinic",
             "repositoryId": "cfc29ac4-b0cb-44dc-9990-f6f52EXAMPLE"
         },
         {
